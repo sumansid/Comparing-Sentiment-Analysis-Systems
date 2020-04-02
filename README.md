@@ -15,3 +15,8 @@ ML based sentiment analysis with Naive Bayes achieved :
 
 2. True Negative Accuracy : 23%
 
+
+# Contributing : 
+
+Pull requests are welcome
+
